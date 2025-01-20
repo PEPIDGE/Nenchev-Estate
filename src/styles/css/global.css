@@ -1,0 +1,17 @@
+/* global.css */
+
+/* Importing all the CSS files */
+@import url('/path/to/animate.css');
+@import url('/path/to/bootstrap.css');
+@import url('/path/to/color.css');
+@import url('/path/to/flaticon.css');
+@import url('/path/to/font-awesome-all.css');
+@import url('/path/to/jquery.fancybox.min.css');
+@import url('/path/to/jquery-ui.css');
+@import url('/path/to/nice-select.css');
+@import url('/path/to/owl.css');
+@import url('/path/to/responsive.css');
+@import url('/path/to/rtl.css');
+@import url('/path/to/style.css');
+@import url('/path/to/switcher-style.css');
+@import url('/path/to/timePicker.css');

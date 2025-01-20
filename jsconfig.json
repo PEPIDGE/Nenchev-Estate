@@ -1,7 +1,11 @@
 {
   "compilerOptions": {
+    "baseUrl": "src",  // Set the base URL to 'src' folder
     "paths": {
-      "@/*": ["./src/*"]
+      "@components/*": ["src/components/*"],
+      "@public/*": ["public/*"],
+      "@styles/*": ["styles/*"],
+      "@lib/*": ["lib/*"]
     }
   }
 }
